@@ -1,0 +1,25 @@
+1. Stringin Son Hərfini Tap
+
+2.Stringin İlk Hərfini Tapmaq:
+
+3.Ədədin Tək və ya Cüt Olduğunu Yoxlamaq:
+
+4.İki Ədədin Böyük və Kiçiyini Tapmaq:
+
+5.Verilən Ədədin Mənfi, Müsbət və ya Sıfır Olduğunu Yoxlamaq:
+
+6.İki Stringin Eyniliyini Yoxlamaq:
+
+7.Ədədin Tam Bölünməsini Yoxlamaq:
+
+8.Ədədi 2 ilə Vurma:
+
+9.İki Stringi Bir-birinə Birləşdirmək:
+
+10. Kvadratin sahesini ve perimetrini hesabla
+
+11. Instenilen 3 bucagin sahesini ve perimetrini hesabla
+
+12. Cevrenin sahesini ve perimetrini Hesable 
+
+13. Bir Calkulyator yaz

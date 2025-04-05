@@ -1,0 +1,66 @@
+1. Üçbucaq şəklində ulduzlar çap edin
+İstifadəçidən N alın və for döngüsü ilə aşağıdakı formada ulduzları çap edin.
+
+2.Armstronq ədədlərini tapın
+İstifadəçidən N alın və 1-dən N-ə qədər olan Armstronq ədədlərini çap edin.
+
+Məsələn:
+Giriş: 500
+Çıxış: 1, 153, 370, 371, 407
+
+(Armstronq ədədi - rəqəmlərinin kubunun cəmi özünə bərabər olan ədəddir. Məsələn, 153 = 1³ + 5³ + 3³)
+
+3. Əks istiqamətdə ulduz üçbucağı çap edin
+
+4. Sadə ədəd olub-olmadığını yoxlayın
+İstifadəçidən N ədədi alın və for döngüsü ilə onun sadə olub-olmadığını müəyyən edin.
+
+Məsələn:
+Giriş: 17
+Çıxış: 17 sadə ədəddir.
+
+5. Ədədi ikilik say sisteminə çevirin
+İstifadəçidən N alın və for döngüsü ilə həmin ədədin ikilik (binary) qarşılığını tapın.
+
+Məsələn:
+Giriş: 10
+Çıxış: 1010
+
+6. Fibonacci ədədinin verilmiş mövqedəki dəyərini tapın
+İstifadəçidən N alın və for döngüsü ilə N-ci Fibonacci ədədini hesablayın.
+
+ Ədədi palindrom olub-olmadığını yoxlayın
+İstifadəçidən bir tam ədəd alın və for döngüsü ilə onun palindrom olub-olmadığını yoxlayın.
+
+7.Palindrom - tərsinə çevrildikdə eyni qalan ədəddir.
+
+Məsələn:
+Giriş: 121
+Çıxış: Palindromdur.
+
+Giriş: 123
+Çıxış: Palindrom deyil.
+
+8. Rəqəmləri müxtəlif olan ədədlərin sayını tapın
+İstifadəçidən iki ədəd A və B alın və for döngüsü ilə A ilə B arasındakı bütün ədədləri yoxlayın. Rəqəmləri təkrarlanmayan (unikal) ədədlərin sayını hesablayın.
+
+Məsələn:
+Giriş: A = 10, B = 30
+Çıxış: 18 ədəd var. (Məsələn, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25, 26, 27, 28, 29, 30)
+
+9. Verilmiş ədədin bütün bölənlərinin cəmini tapın və mükəmməl olub-olmadığını yoxlayın
+İstifadəçidən N ədədi alın və for döngüsü ilə onun bütün müsbət bölənlərinin cəmini tapın. Əgər bölənlərin cəmi həmin ədədə bərabərdirsə, onda ədəd mükəmməl ədəddir.
+
+Mükəmməl ədəd - öz bölənlərinin cəminə bərabər olan ədəddir.
+
+Məsələn:
+Giriş: 28
+Bölənlər: 1, 2, 4, 7, 14
+Çıxış: 28 mükəmməl ədəddir. (1 + 2 + 4 + 7 + 14 = 28)
+
+Giriş: 10
+Bölənlər: 1, 2, 5
+Çıxış: 10 mükəmməl ədəd deyil. (1 + 2 + 5 ≠ 10)
+
+10.Pascal Üçbucağını Çap Edin
+İstifadəçidən N səviyyəli Pascal üçbucağını yaratmasını istəyin. For döngüsü ilə üçbucağı çap edin.

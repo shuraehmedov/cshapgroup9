@@ -1,0 +1,61 @@
+1. 1-dən N-ə qədər ədədləri çap et
+İstifadəçidən N ədədi alın və while döngüsü ilə 1-dən N-ə qədər bütün ədədləri ekrana yazdırın.
+
+2. Tək ədədləri çap et
+İstifadəçidən M ədədi alın və do while döngüsü ilə 1-dən M-ə qədər olan tək ədədləri ekrana yazdırın.
+
+3. Ədədin rəqəmlərini tərsinə yazın
+İstifadəçidən bir tam ədəd alın və while döngüsü ilə onun rəqəmlərini tərsinə çevirərək ekrana yazdırın.
+
+Məsələn:
+Giriş: 12345
+Çıxış: 54321
+
+4. Rəqəmlərin cəmini tapın
+İstifadəçidən bir tam ədəd alın və while döngüsü ilə onun bütün rəqəmlərinin cəmini hesablayın.
+
+Məsələn:
+Giriş: 123
+Çıxış: 6 (1+2+3=6)
+
+5. Faktorial hesablayın
+İstifadəçidən bir N ədədi alın və while döngüsü ilə N! (faktorialını) hesablayın.
+
+Məsələn:
+Giriş: 5
+Çıxış: 120 (5! = 5 × 4 × 3 × 2 × 1 = 120)
+
+6. Sadə və ya mürəkkəb olduğunu tapın
+İstifadəçidən bir N ədədi alın və while döngüsü ilə onun sadə yoxsa mürəkkəb olduğunu təyin edin.
+
+Məsələn:
+Giriş: 7
+Çıxış: 7 sadə ədəddir.
+
+7. Ədədləri çevrilişlə çap et
+İstifadəçidən iki ədəd alın (a və b). While döngüsü ilə böyük ədəddən kiçik ədədə doğru çap edin.
+
+Məsələn:
+Giriş: 10 və 5
+Çıxış: 10, 9, 8, 7, 6, 5
+
+8. Fibonacci ardıcıllığı
+İstifadəçidən N ədədi alın və do while döngüsü ilə ilk N Fibonacci ədədini çap edin.
+
+Məsələn:
+Giriş: 7
+Çıxış: 0, 1, 1, 2, 3, 5, 8
+
+9. Daxil edilən ədədlərin cəmi 100-dən böyük olana qədər ədədləri topla
+İstifadəçidən ədədlər daxil etməsini istəyin və do while döngüsü ilə cəmi 100-dən böyük olana qədər toplamağa davam edin.
+
+Məsələn:
+Giriş: 10, 20, 30, 50
+Çıxış: Cəm = 110
+
+10. Ədədin rəqəmlərində 7 varsa dayandır
+İstifadəçidən ədəd daxil etməsini istəyin. Do while döngüsü ilə hər dəfə yeni ədəd alaraq yoxlayın ki, daxil edilən ədədin rəqəmlərində "7" olana qədər prosesi davam etdirin.
+
+Məsələn:
+Giriş: 12, 45, 23, 78
+Çıxış: Proses dayandırıldı, çünki 78 daxil edildi.

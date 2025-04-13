@@ -1,0 +1,39 @@
+1. Verilən bir ölçülü massivdəki bütün elementlərin cəmindən istifadə edərək, massivdəki ən böyük elementin cəmini hesablayın.
+
+2. Bir ölçülü massiv verilir. Massivin tərs sırasını çap edin.
+
+3. Verilən bir ölçülü massivdəki bütün elementlərin ortalamasını hesablayın.
+
+4. Massivdəki bütün müsbət ədədlərin cəmini tapın.
+
+5. Bir ölçülü massivdə ən kiçik elementin indeksini tapın.
+
+6. Verilən bir ölçülü massivdəki ədədləri sıralayın (artan sıraya).
+
+7. Massivin içində verilən bir ədədin olub-olmadığını yoxlayın.
+
+8. Massivdəki bütün elementləri 2 ilə vurun və yeni massiv yaradın.
+
+9. Bir ölçülü massivdə ardıcıl olaraq ən çox təkrarlanan elementi tapın.
+
+10. Verilən bir ölçülü massivdə ən çox təkrarlanan ədədin sayını tapın.
+
+11. Verilən bir ölçülü massivdəki hər bir elementin, özündən əvvəlki elementlə müqayisə edildikdə neçə dəfə artdığını sayın. Məsələn, [1, 3, 2, 4] massivində 1-ə qarşı 3 artıb, 2-ə qarşı 4 artıb.
+
+12. Bir ölçülü massivdə ardıcıl 3 elementin cəmi ən böyük olan üçlüklə tapın. Məsələn, [1, 3, 2, 6, 4, 5] massivində 3 ardıcıl elementin ən böyük cəmini tapın.
+
+13. Verilən bir massivdə, elementlərin hər biri özündən əvvəlki ədəd ilə bölünsə, neçə dəfə tam bölünmə baş verdiyini hesablayın.
+
+14. Verilən massivdəki hər bir elementin, özündən əvvəlki ədədlərdən kiçik olanlarının sayını tapın. Məsələn, [1, 5, 3, 4] massivində 5-ə qarşı 1 var, 3-ə qarşı 1 var, 4-ə qarşı 2 var.
+
+15. Verilən bir ölçülü massivdəki elementləri, saylarının ən çox olduğu sırayla sıralayın. Əgər bir neçə elementin sayı bərabərdirsə, onda ən kiçik olanları birinci sıralayın.
+
+16. Verilən massivdə yalnız ardıcıl olaraq artan və azalan elementlərdən ibarət olan alt-massivləri tapın. Hər iki ardıcıllığı tapın və uzunluqlarını müqayisə edin.
+
+17. Bir ölçülü massiv verilir, bu massivdə bütün cüt saylı indekslərdəki ədədləri çıxardın və sonra bu ədədlərdən yeni bir massiv yaradın.
+
+18. Verilən massivdəki bütün ədədləri, əvvəlki ədəd ilə toplamaqla yeni bir massiv yaradın. Məsələn, [1, 2, 3] massivini [1, 3, 6] massivinə çevirin.
+
+19. Verilən massivdəki bütün ədədlərin ən böyüyünə nisbətini tapın və bu nisbəti massivə tətbiq edin. Nəticədə alınan yeni massivlə ən böyük elementin cəmindən istifadə edərək yeni bir nəticə çıxarın.
+
+20. Massivin içində verilən bir ədədin ilk və son görünüşünün indekslərini tapın. Əgər ədəd massivdə bir dəfə görünürsə, yalnız bir indeks göstərilsin, əks halda həm başlanğıc, həm də sonuncu indeksi çap edin.

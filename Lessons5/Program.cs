@@ -1,39 +1,53 @@
-﻿namespace Lessons5
+﻿using System.Xml.Serialization;
+
+namespace Lessons5
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Console.Write("Sayi ");
+            int n = int.Parse(Console.ReadLine());
 
-            string ulduz = "*";
-            int say = Convert.ToInt32(Console.ReadLine());
-            for (int i = 0; i < say; i++)
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine(ulduz);
-                ulduz += "*";
+                // Boshluqlar
+                for (int j = 0; j < n - i - 1; j++)
+                {
+                     Console.Write(" ");
+                }
+
+                int value = 1;
+                for (int j = 0; j <= i; j++)
+                {
+                    Console.Write(value + " ");
+                    value = value * (i - j) / (j + 1); // Esas dustur
+                }
+
+                Console.WriteLine();
             }
         }
 
-        /*Console.WriteLine("Ulduz Sayi daxil et:");
-        var var1 = Convert.ToInt32(Console.ReadLine());
-
-       var
-
-        for (int i = 1; i <= var1; i++)
+        static void Main2(string[] args)
         {
-          Console.Write("*");
 
+
+            Console.Write("n daxil edin: ");
+            int n = int.Parse(Console.ReadLine());
+
+            int count = 0;
+            int row = 1;
+
+
+            while (count + row <= n)
+            {
+                Console.WriteLine(new string('*', row));
+                count += row;
+                row++;
+            }
 
         }
-*/
-
-
-
-        /*  for(int i = 0; i < 10; i++) { 
-
-          }*/
-    }
-            static void Main1(string[] args)
+        static void Main1(string[] args)
         {
             //dovr operatorlari
             bool a = false;

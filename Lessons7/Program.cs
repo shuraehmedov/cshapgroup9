@@ -4,7 +4,41 @@ namespace Lessons7
 {
     internal class Program
     {
+
         static void Main(string[] args)
+        {
+            int var1= Convert.ToInt32(Console.ReadLine());
+
+            if (IsUnique(var1))
+            {
+                Console.WriteLine("Unique-dir");
+            }
+            else{
+                Console.WriteLine("Unique deyil");
+            }
+        }
+
+
+        static bool IsUnique(int var1)
+        {
+            string varString = var1.ToString();
+            bool isUnique = true; ;
+            for (int i = 0; i < varString.Length; i++)
+            {
+                for (int j = 0; j < varString.Length; j++)
+                {
+                    if (i != j && varString[i] == varString[j])
+                    {
+                        isUnique = false;
+                        break;
+                    }
+                }
+            }
+            return isUnique;
+        }
+
+
+        static void Main1(string[] args)
         {
            // int[] numbers = {1, 2};
 

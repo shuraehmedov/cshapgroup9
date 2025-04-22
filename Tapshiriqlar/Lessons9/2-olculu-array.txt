@@ -1,0 +1,30 @@
+
+1. Massivi Yarat və Çap Et
+Tapşırıq: 3x3 ölçülü ədədi massiv yarat və bütün elementlərini 1-dən 9-a qədər doldur, sonra çap et.
+
+2. İki Ölçülü Massivin Cəmini Tap
+Tapşırıq: 2x2 ölçülü massivdəki bütün elementlərin cəmini hesabla.
+
+3. Satırların Cəmini Tap
+Tapşırıq: 3x3 ölçülü massivdə hər bir satırın cəmini ayrıca hesabla və ekrana çıxart.
+
+4. Sütunların Cəmini Tap
+Tapşırıq: 3x3 ölçülü massivdə hər bir sütunun cəmini ayrıca hesabla və ekrana çıxart.
+
+5. Ən Böyük Ədədi Tap
+Tapşırıq: 2 ölçülü massivdəki ən böyük ədədi tap.
+
+6. Ən Kiçik Ədədi Tap
+Tapşırıq: 2 ölçülü massivdəki ən kiçik ədədi tap.
+
+7. Köməkçi Diaqonalın Cəmini Tap
+Tapşırıq: Kvadrat massivdə köməkçi diaqonalın (yəni sağdan sola diaqonal) cəmini hesabla.
+
+8. Əsas Diaqonalın Cəmini Tap
+Tapşırıq: Kvadrat massivdə əsas diaqonalın (yəni soldan sağa diaqonal) cəmini hesabla.
+
+9. Tək və Cüt Ədədlərin Sayını Tap
+Tapşırıq: Massivdəki tək və cüt ədədlərin sayını ayrıca hesabla.
+
+10. Massivi Tərsinə Çap Et
+Tapşırıq: 2 ölçülü massivi tərsinə (son satırdan başlayaraq ilkə qədər) çap et.

@@ -4,38 +4,46 @@
     {
         static void Main(string[] args)
         {
-           /* int[] array = { 3, 5, 2, 6, 1, 7, 8 };*/
-
-            int[,] arrayTwo =
+            int[,] array =
             {
-                {1,2,3,4},
-                {2,4,5,6}
+                {1,2,3},
+                {2,10,5},
+                {3,6,7}
             };
+            //  ReturnArray(array);
 
-            int b= arrayTwo[0,2];
+            int arraySize = array.GetLength(0) - 1; //2
+            int n = 0;
+            int m = 0;
+            int sum = 0;
 
+            for (int i = 0; i < array.GetLength(0); i++)
+            {
+                m = arraySize - n;
+                for (int j = 0; j < array.GetLength(1); j++)
+                {
+                    if(n==i  && m == j)
+                    {
+                        sum += array[i, j];
+                    }
+                   
+                }
+                n++;
+            }
 
-            Console.WriteLine(b);
+            Console.WriteLine(sum);
 
+        }
 
-
-            /*     for (int i = 0; i < array.Length; i++)
-                 {
-                     for (int j = 0; j < array.Length; j++)
-                     {
-                         if (array[i] > array[j])
-                         {
-                             int a = array[i];
-                             array[i] = array[j];
-                             array[j] = a;
-                         }
-                     }
-                 }
-
-                 for (int i = 0; i< array.Length; i++)
-                 {
-                     Console.WriteLine(array[i]);
-                 }  */
+        static void ReturnArray(int[,] array)
+        {
+            for (int i = 0; i < array.GetLength(0); i++)
+            {
+                for (int j = 0; j < array.GetLength(1); j++)
+                {
+                    Console.WriteLine(array[i, j]);
+                }
+            }
         }
     }
 }

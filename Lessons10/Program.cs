@@ -15,8 +15,10 @@ namespace Lessons10
 
             /*            var b = Test3(10);
                         Console.WriteLine(b.isOk);*/
+            var var1 = Test3(12);
 
-            Console.WriteLine(test4("baki"));
+            Console.WriteLine(var1.value);
+            Console.ReadLine();
 
         }
 
@@ -57,14 +59,14 @@ namespace Lessons10
             }
         }
 
-        static (int var1, bool isOk) Test3(int a)
+        static (int ilkDeyer, bool isOk, string value) Test3(int a)
         {
             if (a > 0)
             {
-                return (a * a, true);
+                return (a * a, true, "salam dunya");
             }
             else { 
-                return (0, false);
+                return (0, false, "Salam dunya");
             }
         }
 

@@ -40,6 +40,7 @@ namespace Lessons11
     {
         public string name;
         public string surename;
+
         public static int nameLengthMax;
 
         public User(string name, string surename)
@@ -58,6 +59,11 @@ namespace Lessons11
         public static string x1()
         {
             return name + " " + surename;
+        }
+
+        ~User()
+        {
+
         }
     }
 

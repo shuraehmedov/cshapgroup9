@@ -8,13 +8,15 @@ namespace Lessons12.Model
 {
     class Animal
     {
-        public string name;
-        public string color;
+        public string Name;
+        public string Color;
+
+        private string _year;
 
         public Animal(string name, string color)
         {
-            this.name = name;
-            this.color = color;
+            this.Name = name;
+            this.Color = color;
         }
 
         protected int TestMethod()

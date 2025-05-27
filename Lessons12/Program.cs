@@ -16,7 +16,6 @@ namespace Lessons12
             // protected internal
 
             Animal heyvan = new Animal("Pitbull", "Qara");
-            Console.WriteLine(heyvan.TestMethod());
 
 
             Dog dog1 = new Dog("Pitbull", "Qara", 12);
